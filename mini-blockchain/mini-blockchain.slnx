@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="mini-blockchain/mini-blockchain.csproj" Id="7c2ba269-335e-4ff2-a754-4c473f717089" />
+</Solution>

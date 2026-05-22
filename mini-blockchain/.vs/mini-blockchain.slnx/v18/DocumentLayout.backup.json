@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{254AFEB7-0329-AF49-FB51-15B2E337EB20}|Elementos de la soluci\u00F3n{254AFEB7-0329-AF49-FB51-15B2E337EB20}|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{254AFEB7-0329-AF49-FB51-15B2E337EB20}|Elementos de la soluci\u00F3n{254AFEB7-0329-AF49-FB51-15B2E337EB20}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|solutionrelative:mini-blockchain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|solutionrelative:mini-blockchain\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|solutionrelative:mini-blockchain\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|solutionrelative:mini-blockchain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2BA269-335E-4FF2-A754-4C473F717089}|mini-blockchain\\mini-blockchain.csproj|solutionrelative:mini-blockchain\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\conexionDB.cs",
+              "RelativeDocumentMoniker": "mini-blockchain\\conexionDB.cs",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\conexionDB.cs",
+              "RelativeToolTip": "mini-blockchain\\conexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:32:59.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Form1.cs",
+              "RelativeDocumentMoniker": "mini-blockchain\\Form1.cs",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Form1.cs",
+              "RelativeToolTip": "mini-blockchain\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:20:59.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Block.cs",
+              "RelativeDocumentMoniker": "mini-blockchain\\Block.cs",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Block.cs",
+              "RelativeToolTip": "mini-blockchain\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:29:13.192Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blockchain.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Blockchain.cs",
+              "RelativeDocumentMoniker": "mini-blockchain\\Blockchain.cs",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Blockchain.cs",
+              "RelativeToolTip": "mini-blockchain\\Blockchain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:27:43.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Form1.cs",
+              "RelativeDocumentMoniker": "mini-blockchain\\Form1.cs",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\mini-blockchain\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "mini-blockchain\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:47:22.73Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Star\\Desktop\\Proyecto Final_mini-blockchain\\mini-blockchain\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-01T21:46:24.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
